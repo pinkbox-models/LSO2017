@@ -5,7 +5,7 @@
 %%% Versions %%% 
 
 + Ver. 0.9 (Jun. 06, 2017): Initial release of the code on GitHub. 
-
++ Ver. 1.0 (Dec. 28, 2017): Updated reference info. 
 
 %%% Contents %%% 
 
@@ -28,10 +28,10 @@ testILDcoding     : Sample code for plotting binaural intensity-tuning curve of 
 
 + Notes: See each program file and the reference below for more detailed descriptions. 
 
-
 %%% Reference %%% 
 
-Ashida G, Tollin DJ, Kretzberg J (2017) Submitted 
+Ashida G, Tollin DJ, Kretzberg J (2017) 
 "Physiological models of the lateral superior olive" 
-
+PLoS Comput Biol 13(12): e1005903. 
+https://doi.org/10.1371/journal.pcbi.1005903
 
