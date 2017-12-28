@@ -26,14 +26,16 @@ function [spOut, vOut] = LSOmodelAST(spEx, spIn, DT)
 %  by Rotter & Diesmann (1999, Biol Cybern). See also AlphaSynapse.m. 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % References 
-% Ashida G, Tollin DJ, Kretzberg J (2017) Submitted 
-%  "Physiological models of the lateral superior olive" 
+% Ashida G, Tollin DJ, Kretzberg J (2017) PLoS Comput Biol 13(12): e1005903. 
+% "Physiological models of the lateral superior olive" 
+% https://doi.org/10.1371/journal.pcbi.1005903
 % Rotter S, Diesmann M (1999) Biol Cybern 81: 381-402
 %  "Exact digital simulation of time-invariant linear systems with 
 %   applications to neuronal modeling" 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Revisions
 % Created (ver 0.9): May 16, 2017 by Go Ashida
+% Updated references info (ver 1.0): Dec 28, 2017 by GA 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % If you find a bug, please report to GA at go.ashida@uni-oldenburg.de
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
