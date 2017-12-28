@@ -52,7 +52,7 @@ function [spOut, vOut] = LSOmodelAIF(spEx, spIn, DT, Iext)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Revisions
 % Created (ver 0.9): May 16, 2017 by Go Ashida
-% Updated references info (ver. 1.0): Dec. 28, 2017 by GA  
+% Updated references info (ver 1.0): Dec 28, 2017 by GA  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % If you find a bug, please report to GA at go.ashida@uni-oldenburg.de
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
