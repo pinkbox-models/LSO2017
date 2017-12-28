@@ -46,11 +46,13 @@ function [spOut, vOut] = LSOmodelAIF(spEx, spIn, DT, Iext)
 % References 
 % Ashida G, Funabiki K, Kretzberg J (2015) PLoS One 10: e0122796
 %  "Minimal conductance-based model of auditory coincidence detector neurons"
-% Ashida G, Tollin DJ, Kretzberg J (2017) Submitted 
-%  "Physiological models of the lateral superior olive" 
+% Ashida G, Tollin DJ, Kretzberg J (2017) PLoS Comput Biol 13(12): e1005903. 
+% "Physiological models of the lateral superior olive" 
+% https://doi.org/10.1371/journal.pcbi.1005903
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Revisions
 % Created (ver 0.9): May 16, 2017 by Go Ashida
+% Updated references info (ver. 1.0): Dec. 28, 2017 by GA  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % If you find a bug, please report to GA at go.ashida@uni-oldenburg.de
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
