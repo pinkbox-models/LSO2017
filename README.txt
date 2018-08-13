@@ -7,6 +7,11 @@
 + Ver. 0.9 (Jun. 06, 2017): Initial release of the code on GitHub. 
 + Ver. 1.0 (Dec. 28, 2017): Updated reference info. 
 
+%%% Author %%% 
+
+Go Ashida (University of Oldenburg) go.ashida@uni-oldenburg.de
+
+
 %%% Contents %%% 
 
 LSOmodelCOC : Coincidence counting model 
