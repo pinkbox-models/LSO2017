@@ -11,7 +11,6 @@
 
 Go Ashida (University of Oldenburg) go.ashida@uni-oldenburg.de
 
-
 %%% Contents %%% 
 
 LSOmodelCOC : Coincidence counting model 
