@@ -35,7 +35,7 @@ vsfun = @(x)(besseli(1,x) ./ besseli(0,x) - R);
 K = fsolve(vsfun,1.0, optimset('Display','off')); % back calculation of K from VS
 
 % Spike probability at each step 
-X = ( 0:(N-1) ) * ( 2 * pi * F * DT/1000 + P ); % phase vector
+X = ( 0:(N-1) ) * ( 2 * pi * F * DT/1000 ) + P ; % phase vector % corrected for nonzero P 
 Q =  exp( K * cos(X) ) / besseli(0,K) * ( L * DT/1000 ); % average number of spikes at each step
 H = Q .* exp(-Q); % threshold vector for generating output
 
